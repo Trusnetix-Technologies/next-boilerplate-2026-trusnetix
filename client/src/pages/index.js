@@ -1,4 +1,4 @@
-import { Box, Container, ThemeProvider } from "@mui/material";
+import { Box, Container, CssBaseline, ThemeProvider } from "@mui/material";
 import Head from "next/head";
 
 import { lightTheme, darkTheme } from "@/styles/mui/theme";
